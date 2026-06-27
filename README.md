@@ -24,3 +24,13 @@ Steps Performed:
 
 Output Files:
 - enhanced_housing.csv
+
+Interview Questions:
+1. What is Feature Engineering?
+Feature Engineering is the process of creating, transforming, or selecting features from raw data to improve machine learning model performance.
+2. One-Hot Encoding vs Label Encoding?
+-Label Encoding
+Converts categories into numbers.
+Example: Low=0, Medium=1, High=2
+-One-Hot Encoding
+Creates separate binary columns.
